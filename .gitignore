@@ -4,3 +4,4 @@
 .settings/
 # Fix an error from npm 6.9.0
 .git
+bin/
