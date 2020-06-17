@@ -1,0 +1,6 @@
+# Editor directories and files
+.classpath
+.project
+.settings/
+# Fix an error from npm 6.9.0
+.git
